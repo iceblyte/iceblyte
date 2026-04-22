@@ -20,17 +20,17 @@
 ### 🏗️ Backend Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MyBatisPlus|81](https://img.shields.io/badge/MyBatis--Plus-479CC9?style=flat-square&logo=mybatis&logoColor=white)
-![SpringCloud|77](https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![SpringCloudAlibaba|135](https://img.shields.io/badge/SpringCloudAlibaba-FF7300?style=flat-square&logo=alibabacloud&logoColor=white)
-![Nacos|69](https://img.shields.io/badge/Nacos-0088CC?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Seata|86](https://img.shields.io/badge/Seata-2EADFF?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![MyBatisPlus](https://img.shields.io/badge/MyBatis--Plus-C82D1E?style=flat-square&logo=mybatis&logoColor=white)
+![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=springcloud&logoColor=white)
+![SpringCloudAlibaba](https://img.shields.io/badge/Cloud--Alibaba-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
+![Nacos](https://img.shields.io/badge/Nacos-0088CC?style=flat-square&logo=aliyun&logoColor=white)
+![Seata](https://img.shields.io/badge/Seata-2EADFF?style=flat-square&logo=alibabacloud&logoColor=white)
 
 ### 💾 Middleware & Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![XXL-Job|81](https://img.shields.io/badge/XXL--Job-333333?style=for-the-badge&logo=enterprise&logoColor=white)
+![XXL-Job](https://img.shields.io/badge/XXL--Job-333333?style=flat-square&logo=enterprise&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 
 ### 🔧 Tools & Environment
