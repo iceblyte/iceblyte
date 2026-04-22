@@ -29,3 +29,15 @@
 ---
 
 Let's collaborate and build high-performance backend services! 🚀
+
+<!-- 下面是贪吃蛇动画 -->
+<picture>
+  <!-- 浅色主题蛇 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iceblyte/iceblyte/output/github-contribution-grid-snake.svg">
+  <!-- 深色主题蛇 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iceblyte/iceblyte/output/github-contribution-grid-snake-dark.svg">
+  <!-- 默认显示 -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iceblyte/iceblyte/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
