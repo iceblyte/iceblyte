@@ -1,43 +1,45 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I+am+iceblyte+😊;Seeking+Back-End+Developer+Opportunities+✨&font=Fira%20Code&center=true&width=650&height=50)](https://git.io/typing-svg)
+# [ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I+am+iceblyte+😊;Seeking+Back-End+Developer+Opportunities+✨;Java+Backend+Engineer+in+Progress+🚀&font=Fira%20Code&center=true&width=650&height=50)](https://git.io/typing-svg)
+
+## 💫 About Me
+- 🔭 **目前专注于**：Java 后端开发、分布式微服务架构、AI 应用开发。
+- 📚 **数字花园**：[My Quartz Garden](https://my-quartz-garden.vercel.app/) (技术笔记、源码分析、面试心得)。
+- [ ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.cn/u/mystifying-chebyshev4l4/)
 
 ---
 
-## 🌐 Connect with Me
-- [My Quartz Garden](https://my-quartz-garden.vercel.app/): 后端技术笔记、源码学习、面试总结分享!
-
----
-
-## 🧑‍💻 Technologies & Skills
-### 后端核心技术栈
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 中间件 & 数据库
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Nacos](https://img.shields.io/badge/Nacos-0088CC?style=for-the-badge&logoColor=white)
-
-### 工具 & 其他
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-Let's collaborate and build high-performance backend services! 🚀
-
-<!-- 下面是贪吃蛇动画 -->
+## 🐍 Contribution Snake
 <picture>
-  <!-- 浅色主题蛇 -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iceblyte/iceblyte/output/github-contribution-grid-snake.svg">
-  <!-- 深色主题蛇 -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iceblyte/iceblyte/output/github-contribution-grid-snake-dark.svg">
-  <!-- 默认显示 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iceblyte/iceblyte/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iceblyte/iceblyte/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
+
+## 🛠️ Tech Stack & Skills
+### 🏗️ Backend Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MyBatisPlus|81](https://img.shields.io/badge/MyBatis--Plus-479CC9?style=flat-square&logo=mybatis&logoColor=white)
+![SpringCloud|77](https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SpringCloudAlibaba|135](https://img.shields.io/badge/SpringCloudAlibaba-FF7300?style=flat-square&logo=alibabacloud&logoColor=white)
+![Nacos|69](https://img.shields.io/badge/Nacos-0088CC?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Seata|86](https://img.shields.io/badge/Seata-2EADFF?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
+### 💾 Middleware & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![XXL-Job|81](https://img.shields.io/badge/XXL--Job-333333?style=for-the-badge&logo=enterprise&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+
+### 🔧 Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+
+---
+
+<p align="center">
+  Let's collaborate and build something amazing! 🚀
+</p>
