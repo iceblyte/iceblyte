@@ -2,8 +2,6 @@
 
 ## 💫 About Me
 - 🔭 **目前专注于**：Java 后端开发、分布式微服务架构、AI 应用开发。
-- 📚 **数字花园**：[My Quartz Garden](https://my-quartz-garden.vercel.app/) (技术笔记、源码分析、面试心得)。
-- 📈 **力扣记录**：[My LeetCode Profile](https://leetcode.cn/u/mystifying-chebyshev4l4/) (持续精进算法中...)
 
 ---
 
